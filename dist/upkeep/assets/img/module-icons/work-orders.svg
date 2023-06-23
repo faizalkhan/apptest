@@ -1,0 +1,19 @@
+<svg id="tasks-svgrepo-com" xmlns="http://www.w3.org/2000/svg" width="22" height="29" viewBox="0 0 22 29">
+  <g id="Group_2313" data-name="Group 2313">
+    <g id="Group_2312" data-name="Group 2312">
+      <path id="Path_1045" data-name="Path 1045" d="M57.392,1.8H51.81V.677A.67.67,0,0,0,51.147,0H42.963A.67.67,0,0,0,42.3.677V1.8H36.718a.67.67,0,0,0-.663.677V28.323a.67.67,0,0,0,.663.677H57.392a.67.67,0,0,0,.663-.677V2.475A.67.67,0,0,0,57.392,1.8ZM43.626,1.355h6.859V3.522H43.626Zm13.1,26.291H37.38V3.153H42.3V4.2a.67.67,0,0,0,.663.677h8.184A.67.67,0,0,0,51.81,4.2V3.153h4.92Z" transform="translate(-36.055)" fill="#424244"/>
+      <g id="Rectangle_2361" data-name="Rectangle 2361" transform="translate(3.129 8.161)" fill="none" stroke="#424244" stroke-width="1.2">
+        <rect width="15.894" height="4" rx="1" stroke="none"/>
+        <rect x="0.6" y="0.6" width="14.694" height="2.8" rx="0.4" fill="none"/>
+      </g>
+      <g id="Rectangle_2362" data-name="Rectangle 2362" transform="translate(3.129 14.281)" fill="none" stroke="#424244" stroke-width="1.2">
+        <rect width="15.894" height="4" rx="1" stroke="none"/>
+        <rect x="0.6" y="0.6" width="14.694" height="2.8" rx="0.4" fill="none"/>
+      </g>
+      <g id="Rectangle_2363" data-name="Rectangle 2363" transform="translate(3.129 20.402)" fill="none" stroke="#424244" stroke-width="1.2">
+        <rect width="15.894" height="4" rx="1" stroke="none"/>
+        <rect x="0.6" y="0.6" width="14.694" height="2.8" rx="0.4" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
